@@ -1,16 +1,37 @@
-# tracker_app
+# Personal Expense Tracker
 
-A new Flutter project.
+A Flutter mobile application for tracking personal expenses with features like expense management, local storage, and notifications.
 
-## Getting Started
+## Table of Contents:
+# Features
+- Add, edit, and delete expenses.
+- View expenses in a list format.
+- Notifications for reminders to add expenses.
+- Local storage using SQLite for data persistence.
 
-This project is a starting point for a Flutter application.
+# Requirements
+- Flutter SDK
+- Dart SDK
+- An IDE (like Visual Studio Code or Android Studio)
+- Android or iOS device/emulator for testing
 
-A few resources to get you started if this is your first Flutter project:
+# Library used
+- provider: ^6.1.2
+- sqflite: ^2.3.3+2
+- path_provider: ^2.1.4
+- flutter_local_notifications: ^17.2.3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# Installation 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ **Clone the repository**:
+   git clone https://github.com/Mahidevinsights/expense_tracker.git
+   cd expense_tracker
+ **Download APK**:
+   - google drive - https://drive.google.com/file/d/1CrGsAnGE9-8dKVDW7s0MsJP9UzBopt2M/view?usp=sharing
+
+
+
+https://github.com/user-attachments/assets/3c72b10f-ff5f-4fd0-9b44-551c81073ce6
+
+
+<img width="315" alt="expense-tracker" src="https://github.com/user-attachments/assets/3c6f6509-7e46-42a9-93e9-ab858ab65c9a">
